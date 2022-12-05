@@ -113,5 +113,7 @@ buildNumber.properties
 run/
 
 # Files
-EconomyPlugin.iml
 *.env
+
+# Generated code
+code.txt
